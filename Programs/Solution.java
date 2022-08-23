@@ -1,9 +1,9 @@
 package Programs;
 
- /*23-08-2022 Time - 10:36pm.
+ /*23-08-2022 Time - 10:36pm. Tuesday
  I'm starting Java programming language which is best if you never do any coding before.
                                                       - by me a chai 🍵☕😍
-                                                          (Avinash Sharma)
+                                                        (Avinash Sharma)
         */
 
 import java.text.DecimalFormat;
