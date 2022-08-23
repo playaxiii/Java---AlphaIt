@@ -23,10 +23,5 @@ package Programs;
         
                 System.out.println("Your Average Marks of 3 Subjects is : "+ average);
         
-        
-                
-        
-        
-        
             }
         }
